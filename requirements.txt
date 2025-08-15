@@ -1,0 +1,2 @@
+biokit==0.5.0
+statsmodels==0.14.5
